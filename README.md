@@ -37,7 +37,7 @@ Simply copy the direct link to the file you need from GitHub and paste it into y
 Or add it as a Git submodule:
 
 ```bash
-git submodule add [https://github.com/Morunka/mediaIcons.git](https://github.com/Morunka/mediaIcons.git) assets/mediaIcons
+git submodule add https://github.com/Morunka/mediaIcons.git assets/mediaIcons
 ```
 
 ## Contribution
